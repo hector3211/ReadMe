@@ -6,7 +6,7 @@ Self-taught developer
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [hectororopesa5@gmail.com](mailto:hectororopesa5@gmail.com)
-* 🧠  I'm learning Next Js and Web3
+* 🧠  I'm learning Front-end development
 
 <a href="https://www.twitter.com/HectorOropesa1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HectorOropesa1?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
