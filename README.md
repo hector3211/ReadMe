@@ -4,7 +4,7 @@ Hi 👋 My name is Hector Oropesa
 Self-taught developer
 ---------------------
 
-* 🌍  I'm based in United States
+* 🌍  I'm based in United States Florida
 * ✉️  You can contact me at [hectororopesa5@gmail.com](mailto:hectororopesa5@gmail.com)
 * 🧠  I'm learning Rust, Go, and Typescript!
 
