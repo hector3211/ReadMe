@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a self-taught developer, I have a passion for building projects using Rust, Go, and TypeScript. I particularly enjoy using Rust and Go for server development, working with Postgres, and using TypeScript and NextJS to build the front-end, including integration with Firebase. I am constantly learning and looking for ways to improve my skills and take on new challenges.
+As a self-taught developer, I have a passion for building projects using Rust, Go, and TypeScript. I particularly enjoy using Rust and Go for server development, working with Postgres, Supabase and using TypeScript and NextJS to build the front-end, including integration with Firebase. I am constantly learning and looking for ways to improve my skills and take on new challenges.
 
 
 ## 🌐 Socials:
