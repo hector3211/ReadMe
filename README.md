@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a self-taught developer, I have a passion for building projects using Rust, Go, and TypeScript. I particularly enjoy using Rust and Go for server development, working with Postgres, Supabase and using TypeScript and NextJS to build the front-end, including integrations with Gorm, Diesel, Prisma. I am constantly learning and looking for ways to improve my skills and take on new challenges.
+As a full-stack developer, I have a passion for building projects using Rust, Go, and TypeScript. I particularly enjoy using Typescript/Javascript and Rust or Go for back-end development, Postgres is my DB of choice.Typescript/Javascript, with NextJS or Solidjs to build the front-end, including integrations with Gorm, Diesel, Prisma. I am constantly learning and looking for ways to improve my skills and take on new challenges.
 
 
 ## 🌐 Socials:
