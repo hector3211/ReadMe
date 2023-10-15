@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a full-stack developer, I'm deeply passionate about crafting innovative projects utilizing a versatile stack that encompasses Rust, Go, and TypeScript. My love for backend development is exemplified through my preference for NestJs with TypeScript, and I trust Postgres as my go-to database. For the front-end, I wield the power of TypeScript and JavaScript, harnessing NextJS or SolidJS to sculpt engaging user interfaces, complete with seamless integrations using Gorm, Diesel, or Prisma. My journey as a developer is marked by a relentless pursuit of knowledge, a hunger to enhance my skills, and an unwavering enthusiasm to tackle new and exciting challenges.
+As a full-stack developer, I'm passionate about building innovative projects using a versatile stack that includes Rust, Go, and TypeScript. I prefer NestJs with TypeScript for backend development and rely on Postgres as my primary database. On the front-end, I use TypeScript and JavaScript, working with frameworks like NextJS or SolidJS to create user-friendly interfaces. I seamlessly integrate with Gorm, Diesel, or Prisma. My journey in development is characterized by a commitment to learning, a drive to enhance my skills, and a strong enthusiasm for tackling new challenges.
 
 
 ## 🌐 Socials:
